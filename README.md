@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
+    <h1>Hi</h1>
+    <p>This is a test, ignore this stuff bro</p>
     <p>Eat 🐱</p>
-    <img scr="https://picsum.photos/300" alt="This is a random picture" width=250 height=250>
 </body>
 </html>

@@ -1,10 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    <title>toupy's portfolio</title> <!--the tab is now this, the head is used for everything behide the website-->
+</head>
+
 <body>
     <h1><u>Hi</u></h1>
     <h2>This is a <b>test</b>, ignore this stuff bro</h2>
-    <img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dexerto.com%2Fpokemon%2Fcould-twenty-rowlets-beat-groudon-in-pokemon-go-2606502%2F&psig=AOvVaw3_TjsUAqPd_yFFcoNC_oiP&ust=1730216615849000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiGlqy1sYkDFQAAAAAdAAAAABAI" alt="pictureOfRowletVsGroundon" height=200 width=200>
+    <img src="toupySeal.png" alt="toupy" height=200 width=200>
     <p>Eat 🐱</p>
+    <p>
+        <table border="5">
+            <tr>
+                <th>This is a table but bold</th>
+                <th>yipeee</th>
+            </tr>
+            <tr>
+                <td>This is a table but not bold</td>
+                <td>eggs</td>
+            </tr>
+            <tr>
+                <td>This is very cool</td>
+                <td>im kinda bored</td>
+            </tr>
+        </table>
+    </p>
 </body>
 </html>
 

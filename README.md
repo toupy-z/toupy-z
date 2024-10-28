@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 <body>
     <p>Eat 🐱</p>
+    <img scr="https://picsum.photos/300" alt="This is a random picture" width=250 height=250>
 </body>
 </html>

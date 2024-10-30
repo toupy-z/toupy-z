@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>toupy's portfolio</title> <!--the tab is now this, the head is used for everything behide the website-->
+    <title>toupy's portfolio</title>
 </head>
 
 <body>
     <h1><u>Hi</u></h1>
-    <h2>This is a <b>test</b>, ignore this stuff bro</h2>
+    <p>This is a <strong>test</strong>, ignore this stuff bro</p>
     <img src="toupySeal.png" alt="toupy" height=200 width=200>
     <p>Eat 🐱</p>
     <p>
@@ -25,6 +25,14 @@
             </tr>
         </table>
     </p>
+    <ul>
+        <li>this is an unordered list</li>
+        <li>ahhh</li>
+    </ul>
+    <ol>
+        <li>this is an ordered list</li>
+        <li>ahhh</li>
+    </ol>
 </body>
 </html>
 
